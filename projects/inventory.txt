@@ -1,0 +1,5 @@
+Kettle,50,2.99
+Pringles,150,3.49
+Popchips,25,4.19
+Tostitos,100,2.99
+Doritos,250,3.19
